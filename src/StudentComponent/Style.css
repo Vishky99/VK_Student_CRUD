@@ -1,0 +1,21 @@
+.mr-1{
+    margin-right: 15px;
+}
+
+.table-bordered{
+    border: 5px solid black
+}
+
+thead{
+    background-color: rgb(247, 165, 14);
+}
+
+.cn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border{
+    padding: 25px
+}

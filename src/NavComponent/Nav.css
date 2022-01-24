@@ -1,0 +1,17 @@
+nav{
+    align-items: center;
+    background: coral;
+    color: black;
+}
+
+h3{
+    margin-left: 155px;
+}
+
+ul{
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 185px;
+}
